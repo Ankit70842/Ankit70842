@@ -53,11 +53,11 @@ Offline-first Windows file organizer with explainable rules, a review-first work
 </td>
 <td width="50%" valign="top">
 
-**[Campus Connect](https://github.com/Ankit70842/Campus-Connect)**
+**Touchline — Private — publication preparation**
 
-A campus noticeboard demo with searchable posts, category filters, and a post-creation interface. Currently a client-side prototype.
+Football valuation research desk with search, player reports, comparisons, and validated scenarios. The release build uses fictional demo data while historical data/model redistribution rights and Git-history cleanup remain unresolved. The earlier pilot has not established a better production model than the previous-value baseline.
 
-`HTML` `CSS` `JavaScript` `Tailwind`
+`Python` `FastAPI` `pandas` `NumPy` `scikit-learn` `HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
