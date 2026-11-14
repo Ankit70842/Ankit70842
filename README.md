@@ -1,16 +1,80 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ankit70842/Ankit70842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ankit 👋
 
-Here are some ideas to get you started:
+### Computer Science Student · Developer · Curious Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+B.Tech in Computer Science & Engineering at **Symbiosis Institute of Technology, Pune**.
+
+I enjoy building practical tools, full-stack applications, and exploring AI and machine learning.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ankit70842-171B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit70842)
+
+</div>
+
+---
+
+### 🧑‍💻 About me
+
+- 🎓 Studying **Computer Science & Engineering** (Class of 2028)
+- 🛠️ Interested in **software development, automation, full-stack web apps, and AI**
+- 🚀 Building projects to solve everyday problems and learn by shipping
+- 📍 Based in **India**
+
+### ⚡ Tech stack
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-263449?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-263449?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-263449?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-263449?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-263449?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-263449?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-263449?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-263449?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![MongoDB](https://img.shields.io/badge/MongoDB-263449?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-263449?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+### 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Smart Downloads Manager](https://github.com/Ankit70842/smart-download-manager)**
+
+Offline-first Windows file organizer with explainable rules, a review-first workflow, SQLite history, and safe undo.
+
+`Python` `SQLite` `HTML/CSS/JS`
+
+</td>
+<td width="50%" valign="top">
+
+**[Campus Connect](https://github.com/Ankit70842/Campus-Connect)**
+
+A campus noticeboard demo with searchable posts, category filters, and a post-creation interface. Currently a client-side prototype.
+
+`HTML` `CSS` `JavaScript` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+### 📊 GitHub activity
+
+<div align="center">
+
+![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Ankit70842&theme=github-compact&hide_border=true&bg_color=0d1117&color=9dafff&line=8b80f9&point=82cfff&area=true&area_color=6d5dfc)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building, learning, and improving — one project at a time.*
+
+</div>
