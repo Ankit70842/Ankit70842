@@ -33,6 +33,12 @@ An offline-first Windows file organizer with rule previews, an operation history
 
 **Built with:** Python · SQLite · HTML/CSS · JavaScript
 
+### [Pocket Gremlin](https://github.com/Ankit70842/Pocket-Gremlin)
+
+A cute, interactive Windows desktop companion with expressive animations, autonomous behaviors, and Chill Mode. [Windows portable release](https://github.com/Ankit70842/Pocket-Gremlin/releases/tag/v0.3.0).
+
+**Built with:** Godot · GDScript · Windows API
+
 ## Tech stack
 
 **Languages**
@@ -53,7 +59,7 @@ An offline-first Windows file organizer with rule previews, an operation history
 
 ## Currently building
 
-**Pocket Gremlin** — work in progress; public details will follow.
+Latest milestone: **Pocket Gremlin v0.3.0** is complete and publicly available. See Featured projects for the repository and Windows portable release.
 
 ## GitHub activity
 
