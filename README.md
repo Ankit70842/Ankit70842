@@ -67,7 +67,9 @@ A campus noticeboard demo with searchable posts, category filters, and a post-cr
 
 <div align="center">
 
-![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Ankit70842&theme=github-compact&hide_border=true&bg_color=0d1117&color=9dafff&line=8b80f9&point=82cfff&area=true&area_color=6d5dfc)
+GitHub's built-in contribution graph is available directly on my profile, without relying on third-party image services.
+
+**[📈 View my contribution graph and recent activity](https://github.com/Ankit70842#user-activity-overview)**
 
 </div>
 
